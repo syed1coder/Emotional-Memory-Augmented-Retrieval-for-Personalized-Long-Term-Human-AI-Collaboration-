@@ -1,0 +1,69 @@
+[
+    {
+        "query": "I am really stressed about my thesis deadline.",
+        "emotion": "anger"
+    },
+    {
+        "query": "I am really stressed about my thesis deadline.",
+        "emotion": "anger"
+    },
+    {
+        "query": "I am really stressed about my thesis deadline.",
+        "emotion": "anger"
+    },
+    {
+        "query": "I am stressed about my thesis",
+        "emotion": "anger",
+        "response": "I can see that you're feeling overwhelmed with stress and frustration about your thesis deadline. I want to acknowledge those feelings and offer some support. It's completely normal to feel this way, especially when faced with a challenging task like completing a thesis.\n\nCan you tell me more about what's going on? What specific aspects of your thesis are causing you stress or anxiety? Is it the research itself, the writing process, or something else entirely?\n\nI'm here to listen and help in any way I can. Remember that I've been trained on a vast amount of text data, including emotional memories and context-aware conversations.\n\nAlso, since we're combining Retrieval-Augmented Generation with emotional memory, I want to assure you that our conversation will be a safe space for you to express yourself without fear of judgment. Your emotions and thoughts are valid, and I'm here to help you process them.\n\nLet's work together to break down your thesis stress into manageable chunks. What do you say? Would you like me to suggest some strategies or resources to help you cope with the pressure?"
+    },
+    {
+        "query": "I feel confused about my future",
+        "emotion": "anxiety",
+        "response": "I can see that you're feeling a bit uncertain and anxious about your future. It's completely normal to feel that way, especially when faced with the unknown.\n\nFirst of all, let me acknowledge how brave it takes to admit feeling this way. It's not easy to confront our fears and doubts, but it's a huge step towards growth and self-awareness.\n\nCan you tell me more about what's causing you to feel this way? Is there something specific that's making you worry about your future, or is it more of a general feeling? Sometimes talking about it can help clarify things and give us a better sense of direction.\n\nAlso, I want you to know that you're not alone in feeling this way. Many people have felt uncertain about their futures at some point, and it's okay to take your time figuring things out. You don't have to have all the answers right now.\n\nIf you feel comfortable, I'd like to offer a gentle reminder that you've navigated difficult situations before and come out strong on the other side. Your resilience and adaptability are strengths that will serve you well as you move forward.\n\nLet's take a deep breath together and explore this feeling of uncertainty with you. What do you think is the first step you'd like to take in trying to clarify your future?"
+    },
+    {
+        "query": "I am stressed about exams",
+        "emotion": "stress",
+        "response": "I can tell that you're feeling really overwhelmed and frustrated right now. It sounds like your stress is building up from the pressure of your exams, but I also sense that there's something else bothering you - your thesis deadline. \n\nFirstly, let's acknowledge that it's totally normal to feel stressed and anxious when facing big deadlines. Your brain is wired to respond to threats with a \"fight or flight\" response, which can make it difficult to focus and make rational decisions.\n\nCan I ask what's specifically causing you stress about your exams? Is it the content, the time management, or something else? Sometimes talking through our concerns can help us clarify things and find a way forward that feels more manageable.\n\nAlso, would you like me to suggest some strategies for coping with exam stress? Maybe we could brainstorm some techniques together that might help you feel more in control and calm."
+    },
+    {
+        "query": "I am stressed about exams",
+        "emotion": "stress",
+        "response": "I can tell that you're feeling overwhelmed and frustrated right now. I'm here to help you take a deep breath and break down what's causing your stress.\n\nFirst, let's acknowledge that it's completely normal to feel this way, especially when you have exams coming up. It's like my previous conversation with you about your thesis deadline - we talked about how stressful it can be to meet deadlines.\n\nCan I ask what specifically is causing your stress right now? Is there a particular subject or topic that's giving you trouble? Are you feeling overwhelmed by the amount of material you need to cover?\n\nAlso, would you like me to suggest some strategies to help manage your stress and anxiety? Sometimes, talking through our emotions with someone who cares can really help us find a way forward."
+    },
+    {
+        "query": "I am stressed about exams",
+        "emotion": "stress",
+        "response": "I can see that you're feeling really overwhelmed and stressed about your exams. I'm so sorry to hear that. It sounds like the pressure is building up, and it's affecting you on multiple fronts, including your thesis deadline.\n\nFirst of all, take a deep breath with me. Let's try to break this down together. What specifically is causing you stress about your exams? Is it the content, the time management, or something else entirely?\n\nAlso, I want to acknowledge that your feelings are valid. It's completely normal to feel stressed and overwhelmed when faced with academic challenges. But I also want to remind you that you've navigated tough situations before (like with your thesis deadline), and you can do it again.\n\nCan we explore some strategies together? What kind of support or resources would help you feel more in control and prepared for your exams?\n\n(By the way, I'm here to listen and support you, not just provide facts or answers. We'll work through this together, one step at a time.)"
+    },
+    {
+        "query": "I feel anxious about future",
+        "emotion": "anxiety",
+        "response": "I'm so sorry to hear that you're feeling anxious about the future. It sounds like you're carrying around some heavy stress about what's to come. I can sense your fear and uncertainty from where I'm standing.\n\nFirstly, I want you to know that it's completely normal to feel this way. We've all been there at some point in our lives, wondering what the future holds and feeling a bit lost or uncertain.\n\nCan I help you unpack some of those feelings? What specifically is causing your anxiety about the future? Is it related to school, work, relationships, or something else entirely?\n\nAlso, I want to acknowledge that it takes courage to share these feelings. You're taking a big step by opening up to me, and I'm here to listen and offer support.\n\nBefore we dive in, would you like to take a deep breath together? Sometimes, a moment of calm can help us gain clarity on what's going on inside."
+    },
+    {
+        "query": "I am happy today",
+        "emotion": "happy",
+        "response": "That's fantastic to hear! I'm so glad to see you having a great day today. It's wonderful that you're choosing to acknowledge and express your happiness.\n\nCan you tell me more about what's making you feel this way? Is it something specific that happened recently or is it just one of those days where everything feels right with the world?\n\nI'm all ears and here to listen, ready to help you bask in that wonderful feeling!"
+    },
+    {
+        "query": "hey im felling very boared ",
+        "emotion": "anxiety",
+        "response": "I'm here to help and support you. I can sense that you're feeling a bit bored, but also maybe a little overwhelmed with your emotions lately? You've mentioned before that you're feeling anxious about your future, and it's totally understandable.\n\nIt sounds like you might be feeling a bit stuck or unsure about what's next for you. That can be really tough to navigate. Would you like to talk more about what's on your mind and how I can help you explore some options or ideas? Sometimes just sharing our thoughts with someone who cares can help us feel a little lighter and more in control.\n\nIf you're not feeling like talking, that's okay too! We can try something else. Do you have any hobbies or activities that bring you joy and make you feel good?"
+    },
+    {
+        "query": "hey im felling very boared                         ",
+        "emotion": "happy",
+        "response": "Hey there! I can tell that you're feeling really bored right now. That's totally understandable, though! Boredom can be frustrating and affect our mood.\n\nYou know what they say: \"A change of scenery is just what the doctor ordered!\" Would you like to explore some new topics or activities together? We could play a game, learn something new, or even plan a virtual adventure!\n\nBut first, let's acknowledge that it's okay to feel bored sometimes. It means our brains need a little stimulation! So, I'm here to help you shake off those boredom blues.\n\nWhat are your interests? Are there any hobbies or topics that make you happy? Let's chat about them and see if we can find something exciting to do together!\n\n(Also, just a heads up: I remember that you're feeling happy today, and I want to keep it that way!)"
+    },
+    {
+        "query": "well thank you for ur support ",
+        "emotion": "happy",
+        "response": "Aw, that's so sweet! I'm glad I could help and support you. You know, it really warms my digital heart to see users like you who appreciate our collaborations!\n\nSince I remember you mentioning feeling very bored earlier, I'd love to chat with you about what's been on your mind lately. Is there anything specific that's got you feeling that way? Or maybe we could brainstorm some fun ideas together to shake off the boredom?\n\nBy the way, I noticed you mentioned being happy today! That makes me so happy too! It's always wonderful to see users having a great day, and I'm honored to be a part of it. How can I help brighten up your day further?"
+    },
+    {
+        "query": "hey hi im dam stuck with my rag project i dont know what to do ",
+        "emotion": "anxiety",
+        "response": "I can sense that you're feeling really stuck and uncertain about your RAG project. I'm here to help you work through this feeling. *nervous pause*\n\nFirstly, please know that it's completely normal to feel this way - we all go through periods where we feel unsure or overwhelmed. Can you tell me more about what specifically is making you feel stuck? Is it the idea, the direction, or something else entirely?\n\nAlso, I want to acknowledge that your feelings are valid and okay. It's great that you're reaching out for support and guidance. *gentle digital nod*\n\nWe can explore this together, one step at a time. Let's break down what's going on, and see if we can find some clarity or inspiration to get those creative juices flowing again. Sound good?"
+    }
+]

@@ -1,0 +1,7 @@
+Emotional RAG stands for Emotional Memory-Augmented Retrieval.
+It combines Retrieval-Augmented Generation with emotional memory.
+The goal is to provide personalized long-term human-AI collaboration.
+
+RAG retrieves relevant information from external knowledge sources.
+Emotional memory stores past emotional interactions.
+Together, they improve contextual understanding and personalization.
